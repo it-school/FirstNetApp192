@@ -12,6 +12,7 @@ namespace FirstNetApp192
         {
             Console.WriteLine("Hello, students!!!");
             Console.WriteLine("Hello, students, 2nd time!!!");
+            Console.WriteLine("Hello, students, 3nd time!!!");
         }
     }
 }
