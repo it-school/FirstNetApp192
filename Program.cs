@@ -11,7 +11,7 @@ namespace FirstNetApp192
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, students!!!");
-
+            Console.WriteLine("Hello, students, 2nd time!!!");
         }
     }
 }
